@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/jomys/OneDrive/Desktop/Next%2CJs%20-%20APP/projecttest/src/app/components/Test/TestDiv.module.css"],"sourcesContent":[".testDiv {\r\n    width : 200px;\r\n    height: 200 px;\r\n    background-color: blue;\r\n    border: solid white;\r\n}\r\n"],"names":[],"mappings":"AAAA","debugId":null}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/jomys/OneDrive/Desktop/Next%2CJs%20-%20APP/projecttest/src/app/components/Product.tsx"],"sourcesContent":["'use client'\r\nimport React from 'react'\r\n\r\nconst ProductCard = () => {\r\n  return (\r\n    <div>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default ProductCard\r\n"],"names":[],"mappings":";;;;AAAA;;AAGA,MAAM,cAAc;IAClB,qBACE,8OAAC;;;;;AAGL;uCAEe","debugId":null}}]
+}

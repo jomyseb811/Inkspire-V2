@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/jomys/OneDrive/Desktop/Next%2CJs%20-%20APP/projecttest/src/app/components/AddtoCart.tsx"],"sourcesContent":["'use client'\r\nimport React from 'react'\r\nconst AddtoCart = () => {\r\n  return (\r\n    <div className='p-5 my-5 bg-amber-300 text-black text-xl hover:bg-amber-800 '>\r\n      <p>Amber</p>\r\n            <button onClick={() => console.log('Clicked')}>Add to cart </button>\r\n\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default AddtoCart\r\n"],"names":[],"mappings":";;;;AAAA;;AAEA,MAAM,YAAY;IAChB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;0BAAE;;;;;;0BACG,8OAAC;gBAAO,SAAS,IAAM,QAAQ,GAAG,CAAC;0BAAY;;;;;;;;;;;;AAI3D;uCAEe","debugId":null}}]
+}

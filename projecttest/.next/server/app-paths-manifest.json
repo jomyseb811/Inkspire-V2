@@ -1,0 +1,6 @@
+{
+  "/AdminDashboard/page": "app/AdminDashboard/page.js",
+  "/Timeline/page": "app/Timeline/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
